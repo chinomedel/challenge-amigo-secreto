@@ -28,4 +28,6 @@ Este proyecto es una aplicación web sencilla para organizar el juego del "Amigo
 2. Abre el archivo `index.html` en tu navegador web.
 3. Agrega los nombres de los participantes y realiza el sorteo.
 
+## Previsualización
 
+Puedes revisar una vista previa del proyecto [aquí](https://chinomedel.github.io/challenge-amigo-secreto/)
